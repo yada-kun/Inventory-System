@@ -11,14 +11,16 @@
     <div class="flex md:block">
         
         @include('layouts.sidebar')
-      
-        @include('layouts.header')
-      
-       
+
+        <main class="sm:ml-64 px-5">
+            @include('layouts.header')
+            <div class="mt-16">
+                @yield('content')
+            </div>
+        </main>
     </div>
   
-    <main>
-        @yield('content')
-    </main>
+   
+   
 </body>
 </html>

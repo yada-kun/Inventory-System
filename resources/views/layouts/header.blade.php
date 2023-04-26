@@ -1,7 +1,7 @@
-<header class="sm:ml-64 flex justify-between items-center" >
+<header class=" flex justify-between items-center" >
 
     <form class="hidden md:block">   
-        <div class="w-96 p-5">
+        <div class="w-96 py-5">
         <label for="search" class="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white">Search</label>
             <div class="relative">
                 <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">

@@ -1,6 +1,8 @@
 @extends('layouts.master')
 @section('content')
 
+<h1 class="">Overview</h1>
+
 <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, adipisci in esse veritatis saepe non, nam
     distinctio deserunt libero a mollitia magni similique natus aliquam eligendi ullam sunt vel deleniti ipsum? Officiis
     porro, dolor fugit id repudiandae debitis! Corporis, minus? Deleniti voluptatibus aliquid, obcaecati corporis
